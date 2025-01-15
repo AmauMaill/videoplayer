@@ -34,7 +34,7 @@ h1 {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     padding: 10px;
 }
@@ -54,13 +54,17 @@ h1 {
 }
 
 .controls .fa-pause {
-    color: #fff;
+    color: white;
+}
+
+.controls .progress {
+    flex-grow: 1;
+    margin: 0 10px;
 }
 
 .controls .timestamp {
-    columns: white;
+    color: white;
     font-weight: bold;
-    margin-left: 10px;
 }
 
 .btn:focus {
