@@ -9,7 +9,6 @@ You can see a [live demo here](https://amaumaill.github.io/videoplayer/).
 - **Play, Pause, and Stop**: Users can toggle between playing, pausing, and stopping the video with intuitive controls.
 - **Progress Bar**: A dynamic progress bar shows the current playback position and allows users to seek to specific parts of the video.
 - **Timestamp Display**: Displays the current playback time in minutes and seconds for easy tracking.
-- **Fullscreen Support**: The app includes a fullscreen mode for an immersive viewing experience.
 
 ## How It Works
 
